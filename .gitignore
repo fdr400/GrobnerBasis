@@ -26,7 +26,18 @@
 *.a
 *.lib
 
+# Input files
+*.in
+
 # Executables
 *.exe
 *.out
 *.app
+
+# Local
+.vscode
+build
+bin
+
+# OS
+.DS_Store
